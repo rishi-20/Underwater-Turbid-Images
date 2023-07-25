@@ -7,4 +7,4 @@
 
 3. Run the Enhance.pynb file
    
-4. Find the enhanced/restored images in "OutputImages" folder.
+4. Find the enhanced images in "OutputImages" folder.
